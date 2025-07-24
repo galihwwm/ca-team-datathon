@@ -11,4 +11,4 @@ ENV STREAMLIT_SERVER_PORT=8080
 ENV STREAMLIT_SERVER_ADDRESS=0.0.0.0
 EXPOSE 8080
 
-CMD ["python", ".\app-backend.py"]
+CMD ["python", "app-backend.py"]
